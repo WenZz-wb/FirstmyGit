@@ -12,7 +12,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("你好！！");
         System.out.println("再见！！");
-        System.out.println("再见了");
-
+        System.out.println("再见了！！");
     }
 }
